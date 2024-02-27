@@ -156,3 +156,13 @@ img{
 .card__social-text  {
     top: .5rem;
 }
+
+/* Rotate social */
+.animation .card__social-control  {
+    transform: rotate(-135deg);
+}
+
+/* Up Animation */
+.card__social-control{
+    animation: up-animation 1s ease-in-out forwards;
+}
