@@ -85,6 +85,12 @@ img{
     font-weight: 500;
 }
 
+.card__profession{
+    color: var(--text-color);
+    font-size: var(--smaller-font-size);
+    font-weight: 500;
+}
+
 .card__social  {
     width: 200px;
     background-color: var(--first-color);
