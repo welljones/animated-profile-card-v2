@@ -77,6 +77,7 @@ img{
     background-color: var(--black-color);
     padding: 1.25rem 2rem 3rem;
     border-radius: 1.5rem;
+    /* border:  2px solid hsla(500, 100%, 100%, .5); */
     text-align: center;
     box-shadow: 0 4px 16px hsla(29, 75%, 80%, .2);
 }
